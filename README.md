@@ -1,3 +1,7 @@
+
+
+Copy and paste the code into R and run it! Data is too big to see on here.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
